@@ -13,7 +13,7 @@ namespace modul4_103022300134
             Dictionary<string, string> kodeProduk = new Dictionary<string,string>
                 
             {
-                { "Laptop ", "E100" },
+                { "Laptop", "E100" },
                 { "Smartphone", "E101" },
                 { "Tablet", "E102" },
                 { "Headset", "E103" },
